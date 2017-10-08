@@ -1,1 +1,3 @@
-iOS projects that I worked on during the Swift course I took during my research internship at Vanderbilt.
+- Calculator2: Basic calculator created through Stanford's Developing iOS 10 Apps with Swift online class
+- DrugApp: Transfers drug information stored in a .csv file to app form
+- RiskAssessment: Basic survey that tests for medical risk
